@@ -20,7 +20,7 @@ export const SYMBOLS: SymbolDef[] = [
     short: "Grundled",
     description:
       "Den eller det, der udfører handlingen, eller som sætningen handler om. Spørg: hvem/hvad + udsagnsled?",
-    example: "Katten sover på sofaen.",
+    example: "<b>Katten<b> sover på sofaen.",
     colorClasses: "bg-blue-100 text-blue-700 border-blue-300",
   },
   {
